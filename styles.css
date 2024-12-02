@@ -122,7 +122,6 @@ main {
     /* footer */
   .footer_css {
     text-align: center;
-    
   }
 
 
@@ -134,7 +133,7 @@ main {
   @media (max-width: 576px) {
 
 
-/* boton conocer mas */
+/* carousel */
     .conocer_mas {
     padding: 5px; /* menos padding para reducir el alto */
 
@@ -144,6 +143,18 @@ main {
      
     }
   }
+
+  /* productos */
+  .vehiculos { 
+     img {
+      width: 70%;
+    display: block;
+    margin: 0 auto;
+
+     }
+   
+  }
+
       
     /* footer */
   .footer_css {
